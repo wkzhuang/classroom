@@ -51,7 +51,6 @@
   },
 
   "addons": [
-   // "bonsai",
     "heroku-postgresql",
     "memcachedcloud",
     "newrelic",
